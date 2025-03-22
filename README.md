@@ -50,7 +50,7 @@ pip install -r requirements.txt
 ## 📁 Project Structure
 ```
 text-analysis-project/
-├── main.py                    # Main script for text analysis
+├── main.ipynb                    # Main script for text analysis
 ├── StopWords_Generic.txt      # List of stop words to be filtered
 ├── positive-words.txt         # Dictionary of positive sentiment words
 ├── negative-words.txt         # Dictionary of negative sentiment words
@@ -116,9 +116,6 @@ The analysis follows these methodological steps:
 - Create an interactive dashboard for results
 - Add caching for previously scraped articles
 - Improve error handling and logging
-
-## 📝 License
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## 🙏 Acknowledgements
 - Black Coffer for the project inspiration
